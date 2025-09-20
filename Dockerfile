@@ -5,7 +5,7 @@ FROM python:3.11-slim
 WORKDIR /app
 
 # Set HF cache inside container
-ENV HF_HUB_CACHE=/app/hf_cache
+ENV HF_HUB_CACHE=/tmp/hf_cache
 
 # Copy requirements and install
 COPY requirements.txt .
