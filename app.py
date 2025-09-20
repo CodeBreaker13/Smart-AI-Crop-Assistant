@@ -6,7 +6,11 @@ from PIL import Image
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import io
+import os
 from huggingface_hub import hf_hub_download
+
+# Set Hugging Face cache to a folder inside the container
+os.environ['HF_HUB_CACHE'] = '/app/hf_cache'
 
 # Initialize Flask app
 app = Flask(__name__)
