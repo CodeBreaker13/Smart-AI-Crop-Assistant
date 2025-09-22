@@ -193,7 +193,7 @@ This README provides an overview of the project, including team details, relevan
 **Team Members:**  
 - MEMBER_1 – 2024UIC3535 – [@CodeBreaker13](https://github.com/CodeBreaker13)  
 - MEMBER_2 – 2024UIC3504 – [@8920217247](https://github.com/8920217247)  
-- MEMBER_3 – 2023UEC2622 – [@](https://github.com/)  
+- MEMBER_3 – 2023UEC2622 – [@Sidd-harth011](https://github.com/Sidd-harth011)  
 - MEMBER_4 – 2023UEC2516 – [@gjgj7676](https://github.com/gjgj7676)  
 - MEMBER_5 – 2024UCM2343 – [@jyoti9406](https://github.com/9406)  
 - MEMBER_6 – 2025UME7608 – [@divalakra](https://github.com/divalakra)  
