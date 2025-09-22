@@ -177,3 +177,33 @@ See the <a href="LICENSE">LICENSE</a> file for details.
   <li>🤖 AI Cure Assistant: Grok API integration.</li>
   <li>☁ Hosting & Model Hub: Hugging Face Spaces.</li>
 </ul>
+
+# 25010 - SMART CROP ADVISORY SYSTEM FOR SMALL AND MARGINAL FARMERS
+
+This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.  
+
+---
+
+## Team Details  
+
+**Team Name:** DebuggingTITANS  
+
+**Team Leader:** [@CodeBreaker13](https://github.com/CodeBreaker13)  
+
+**Team Members:**  
+- MEMBER_1 – 2024UIC3535 – [@CodeBreaker13](https://github.com/CodeBreaker13)  
+- MEMBER_2 – 2024UIC3504 – [@8920217247](https://github.com/8920217247)  
+- MEMBER_3 – 2023UEC2622 – [@](https://github.com/)  
+- MEMBER_4 – 2023UEC2516 – [@gjgj7676](https://github.com/gjgj7676)  
+- MEMBER_5 – 2024UCM2343 – [@jyoti9406](https://github.com/9406)  
+- MEMBER_6 – 2025UME7608 – [@divalakra](https://github.com/divalakra)  
+
+---
+
+## Project Links  
+
+- **SIH Presentation:** [Final SIH Presentation](https://www.canva.com/design/DAGzmm53hDI/nrkxLKfvW8NQYk69Xo2fTw/edit?utm_content=DAGzmm53hDI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- **Video Demonstration:** [Watch Video](https://youtu.be/TrAbZGk9iTU?si=iELLg4-hyruI7-vx)  
+- **Live Deployment:** [View Deployment](https://pdrm-pfront.vercel.app/)  
+- **Source Code:** [GitHub Repository](GITHUB_REPO_LINK)  
+- **Additional Resources:** [Other Relevant Links](ANY_OTHER_LINKS)  
