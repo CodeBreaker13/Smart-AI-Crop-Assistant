@@ -178,7 +178,7 @@ See the <a href="LICENSE">LICENSE</a> file for details.
   <li>☁ Hosting & Model Hub: Hugging Face Spaces.</li>
 </ul>
 
-# 25010 - SMART CROP ADVISORY SYSTEM FOR SMALL AND MARGINAL FARMERS
+# 25010 - SMART CROP ADVISORY SYSTEM FOR SMALL AND MARGINAL FARMERS SIH INDIA IDEA 2025
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.  
 
