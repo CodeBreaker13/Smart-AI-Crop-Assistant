@@ -82,7 +82,7 @@ npm start
 REACT_APP_GROK_ENABLED=true
 </code></pre>
 
-<h3>3. Run Backend (Flask)</h3>
+<h3>3. Run Backend Flow (Flask)</h3>
 
 <pre><code>cd backend
 python -m venv venv
