@@ -40,7 +40,7 @@ TensorFlow Lite model. It integrates:
 <h2 id="workflow">🔁 How It Works</h2>
 <ol>
   <li>User uploads a plant leaf image via the React frontend.</li>
-  <li>Image is sent to the Flask backend <code>/predict</code> endpoint.</li>
+  <li>Image is sent to the Flask backend <code>/predict</code> endpoint for checking.</li>
   <li>TensorFlow Lite model processes the image and returns prediction (disease + confidence).</li>
   <li>Frontend displays results and provides an option to ask <strong>Grok Assistant</strong> for cures.</li>
   <li>Assistant suggests treatment steps and preventive practices.</li>
